@@ -1,4 +1,4 @@
-# Plant App - Flutter UI
+# Plant App - Flutter eye catching UI
 
 ## [Watch it on YouTube](https://youtu.be/LN668OAUrK4)
 
